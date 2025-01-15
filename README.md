@@ -1,6 +1,6 @@
 # ¡Hola, soy [Jeyco Castro] 👋
 
-Soy estudiante de Ingenieria en informatica en Duoc UC. Me apasiona el desarrollo de software y la tecnología. Estoy en constante aprendizaje y buscando nuevos retos en el mundo de la programación. Interesado en el lenguaje de programacion y entrenamiento de IA, amplico conocimiento en ciberseguridad y kali linux.
+Soy estudiante de Ingenieria en informatica en Duoc UC. Me apasiona el desarrollo de software y la tecnología. Estoy en constante aprendizaje y buscando nuevos retos en el mundo de la programación. Interesado en el lenguaje de programacion y entrenamiento de IA, amplio conocimiento en ciberseguridad y kali linux.
 
 ## 💻 Sobre mí
 - Estudiante en Ingenieria en informatica
